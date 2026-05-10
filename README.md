@@ -18,7 +18,8 @@ För att bygga moderna webbapplikationer behöver vi en stabil och flexibel back
 
 ### Presentationer
 
-* 01 - [Kursintroduktion]()
+* 01 - [Kursintroduktion](https://docs.google.com/presentation/d/1xRtZlj_3PTYJbjfhwAqgCRcI7nuuwjHz/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 02 - [Intro till Express](https://docs.google.com/presentation/d/1ssdMWYdJAu_xFfIdyX6Fp3RDAgZepAip/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
