@@ -23,6 +23,9 @@ För att bygga moderna webbapplikationer behöver vi en stabil och flexibel back
 
 ### Inspelade föreläsningar
 
+* 01 - [Kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQAfSJuSXbA3TZAveF7NWaZlAVyoUP1PUiwvBFnXdIvhnYI?e=Jg2gTf)
+* 02 - [Express]()
+
 ### Lektionsrepon
 
 * [11 maj](https://github.com/fu-node-webb25/week-20-lecture-11-maj)
